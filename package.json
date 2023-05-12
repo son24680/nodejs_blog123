@@ -1,0 +1,32 @@
+{
+  "name": "blog_view",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/son24680/nodejs_blog123.git"
+  },
+  "keywords": [
+    "f8",
+    "f8",
+    "nodejs",
+    "nodejs"
+  ],
+  "author": "sondz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/son24680/nodejs_blog123/issues"
+  },
+  "homepage": "https://github.com/son24680/nodejs_blog123#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
